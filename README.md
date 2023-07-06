@@ -1,2 +1,2 @@
 # README
-Implementation of light weight hashing algorithms in IOT devices.
+Detection of Covid-19 using Lung Ultrasound Images.
